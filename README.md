@@ -283,3 +283,6 @@ make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/rpmsg_str_echo_rpmsglite_examp
 make: *** [Makefile:91: all] Erro 2
 neuberfran@neuberfran2004:~/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/armgcc$ 
 
+![alt text](https://github.com/neuberfran/imx7d_pico_m4/blob/main/Captura%20de%20tela%20de%202023-12-13%2015-36-18.png?raw=true)
+
+
